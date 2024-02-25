@@ -1,8 +1,12 @@
 // object
 
 //singleton
+//ex:- 
+ //const tinderUser= new Object()
 
-//object.create
+//object.create // method used to create object
+
+//==========================================================//
 
 //object literals:----
 
