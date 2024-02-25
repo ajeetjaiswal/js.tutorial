@@ -68,25 +68,32 @@ const course={
     courseInstructor:"Hitesh"
 }
 
-const {courseInstructor: instructor} = course
+const {courseInstructor} = course // this is an another way to access values
+
+const {courseInstructor: instructor} = course // this is the way to change key name and can be access through this new key name
+
 
 //console.log(courseInstructor)
 //console.log(instructor);
 
 
 /////////////////////////////////////////////////////////////
-{
-    "name": "hitesh",
-    "id": 123,
-    "price": "free"
+
+//json :-
 
 
-}
+// {
+//     "name": "hitesh",
+//     "id": 123,
+//     "price": "free"
 
-[
-    {},
-    {},
-    {}
-]
+
+// }
+
+// [
+//     {},
+//     {},
+//     {}
+// ]
 
 
